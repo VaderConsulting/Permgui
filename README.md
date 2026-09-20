@@ -1,6 +1,6 @@
 # Permgui
 
-VB6 working copy of `Permgui` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Readonly. Output: `PermGUI.exe`. `VersionCompanyName`: WA POLICE SERVICE..
+WA Police Service VB6 PermGUI (`PermGUI.exe` / title Readonly): GUI to set folder/file ACLs (standard Full/Change/Read Only or custom Read/Write/Execute/Delete/Change Permission/Take Ownership); supports `/f:path` on the command line. Open `Permgui.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
